@@ -1,0 +1,24 @@
+digraph {
+	drivers_master
+	order_transactions
+	order_log_incentive_session
+	customers_master
+	campaign_master
+	support_ticket_status_log
+	campaign_interactions
+	order_log_incentive_session_log
+	support_tickets
+	restaurants_master
+	order_transactions -> drivers_master [label="driver_id ➝ driver_id"]
+	order_transactions -> restaurants_master [label="restaurant_id ➝ restaurant_id"]
+	order_transactions -> order_log_incentive_session [label="order_id ➝ order_id"]
+	order_transactions -> support_tickets [label="order_id ➝ order_id"]
+	support_tickets -> customers_master [label="customer_id ➝ customer_id"]
+	support_tickets -> support_ticket_status_log [label="ticket_id ➝ ticket_id"]
+	campaign_interactions -> customers_master [label="customer_id ➝ customer_id"]
+	campaign_interactions -> campaign_master [label="campaign_id ➝ campaign_id"]
+	campaign_interactions -> order_transactions [label="order_id ➝ order_id"]
+	order_log_incentive_session -> drivers_master [label="driver_id ➝ driver_id"]
+	order_log_incentive_session_log -> order_log_incentive_session [label="order_id ➝ order_id"]
+	order_log_incentive_session_log -> support_ticket_status_log [label="log_id ➝ log_id"]
+}

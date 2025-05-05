@@ -1,0 +1,21 @@
+campaign_id,campaign_name,start_date,end_date,campaign_type,objective,channel,budget,cost_model,targeting_strategy,is_active
+CMP006,Happy Promo,2023-12-28,2024-01-05,retargeting,boost_new_customers,email,39124.13,cpv,lookalike,true
+CMP003,Boost Sale,2023-12-20,2024-01-05,retargeting,boost_new_customers,google,39499.35,cpa,broad,true
+CMP007,Happy Deal,2023-12-25,2024-01-06,seasonal,reactivate_lapsed,facebook,26431.1,cpm,lookalike,true
+CMP012,Boost Deal,2023-12-06,2023-12-19,loyalty,boost_new_customers,tiktok,40471.13,cpc,lookalike,false
+CMP016,Mega Promo,2023-12-13,2023-12-28,seasonal,boost_new_customers,facebook,45504.16,cpv,broad,false
+CMP013,Boost Sale,2023-12-29,2024-01-09,retargeting,increase_orders,google,14713.23,cpa,custom,true
+CMP017,Flash Promo,2023-12-30,2024-01-27,seasonal,boost_new_customers,facebook,5948.34,cpc,custom,true
+CMP004,Flash Deal,2023-12-14,2023-12-28,seasonal,boost_new_customers,google,33912.35,cpm,custom,false
+CMP005,Boost Sale,2023-12-26,2024-01-19,loyalty,increase_orders,tiktok,27678.65,cpm,broad,true
+CMP008,Boost Deal,2023-12-04,2023-12-18,acquisition,reactivate_lapsed,tiktok,41948.7,cpv,custom,false
+CMP002,Happy Sale,2023-12-24,2024-01-17,acquisition,boost_new_customers,email,11733.56,cpc,lookalike,true
+CMP009,Flash Promo,2023-12-13,2024-01-02,retargeting,reactivate_lapsed,tiktok,9336.94,cpa,broad,true
+CMP010,Boost Promo,2023-12-23,2024-01-04,seasonal,increase_orders,facebook,48000.16,cpc,broad,true
+CMP019,Boost Sale,2023-12-22,2024-01-20,acquisition,increase_orders,email,10503.68,cpm,custom,true
+CMP001,Boost Deal,2023-12-14,2024-01-03,retargeting,boost_new_customers,email,42802.05,cpv,lookalike,true
+CMP014,Boost Sale,2023-12-10,2024-01-07,seasonal,boost_new_customers,email,11681.52,cpv,custom,true
+CMP011,Boost Sale,2023-12-15,2023-12-26,seasonal,reactivate_lapsed,facebook,48233.72,cpc,broad,false
+CMP015,Mega Promo,2023-12-02,2023-12-14,retargeting,reactivate_lapsed,email,17136.62,cpm,lookalike,false
+CMP018,Flash Sale,2023-12-30,2024-01-24,loyalty,boost_new_customers,tiktok,19772.27,cpc,lookalike,true
+CMP020,Flash Sale,2023-12-27,2024-01-03,acquisition,reactivate_lapsed,facebook,21879.21,cpa,custom,true

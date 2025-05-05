@@ -1,0 +1,106 @@
+restaurant_id,name,category,city,average_rating,active_status,prep_time_min
+REST063,"Campbell, Maldonado and Rivas",Vegan,Hat Yai,3.8,inactive,33
+REST090,Ortega-Johnson,Vegan,Pattaya,4.8,inactive,33
+REST032,Franklin-Lewis,Vegan,Pattaya,4.8,active,18
+REST062,Lutz Inc,Western,Udon Thani,3.9,active,20
+REST096,Garza Group,Japanese,Udon Thani,3.4,inactive,28
+REST080,"Johnson, Lambert and Williams",Vegan,Udon Thani,4.2,inactive,19
+REST079,"Mason, Thomas and Cruz",Coffee,Pattaya,4.8,active,20
+REST074,"Coleman, Mendez and Gomez",Fast Food,Bangkok,4.4,active,18
+REST034,Gardner LLC,Coffee,Khon Kaen,3.8,active,20
+REST020,Wilson-Hernandez,Fast Food,Chiang Mai,4.7,active,24
+REST095,Bridges-Cox,Vegan,Chiang Mai,4.3,active,18
+REST041,"Miller, Sutton and Li",Bakery,Bangkok,4.8,active,18
+REST089,Mason LLC,Coffee,Chiang Mai,4.4,inactive,13
+REST057,Mcgee-Rivera,Coffee,Chiang Mai,4.5,active,24
+REST047,"Shepard, Hale and Torres",Japanese,Udon Thani,4.0,inactive,26
+REST056,Vazquez-Robertson,Bakery,Khon Kaen,3.7,active,18
+REST068,"Peterson, Morris and Green",Fast Food,Bangkok,4.2,active,16
+REST025,Thompson LLC,Japanese,Phuket,3.8,inactive,16
+REST026,Flores Group,Thai,Bangkok,4.1,active,9
+REST016,"Harvey, Arnold and Herman",Bakery,Hat Yai,4.2,active,24
+REST046,Bailey-Kelley,Bakery,Bangkok,3.8,inactive,30
+REST058,Jones and Sons,Fast Food,Bangkok,4.1,active,16
+REST015,"Lloyd, Nelson and Stephens",Bakery,Udon Thani,3.7,inactive,27
+REST054,Smith-Garcia,Western,Chiang Mai,4.5,inactive,19
+REST087,Patton-Deleon,Thai,Bangkok,4.5,active,27
+REST099,Russell Group,Bakery,Chiang Mai,4.2,inactive,9
+REST078,Cook-Nunez,Coffee,Bangkok,4.5,inactive,13
+REST071,"Cox, Flynn and Kramer",Coffee,Rayong,4.0,active,20
+REST012,Schneider-Morgan,Thai,Phuket,5.0,active,26
+REST075,Walker and Sons,Coffee,Bangkok,4.5,inactive,19
+REST060,Miller Group,Vegan,Khon Kaen,4.1,inactive,13
+REST044,Harris-Atkinson,Bakery,Udon Thani,3.9,active,14
+REST007,"Stuart, Rivas and Walters",Thai,Rayong,3.6,active,27
+REST001,Bell-Stewart,Fast Food,Phuket,3.8,active,14
+REST083,"Aguilar, Swanson and Reed",Western,Bangkok,3.6,active,24
+REST027,"Barber, Jenkins and Smith",Japanese,Rayong,3.8,active,14
+REST088,"Edwards, Cunningham and Serrano",Coffee,Hat Yai,4.1,inactive,18
+REST064,Campbell-Benitez,Thai,Hat Yai,4.0,inactive,23
+REST018,Thomas-Hendricks,Japanese,Khon Kaen,4.6,inactive,34
+REST030,Ho-Johnson,Fast Food,Phuket,4.7,active,23
+REST009,Flynn-Cabrera,Japanese,Khon Kaen,4.5,active,15
+REST010,"Thornton, Morgan and Harris",Vegan,Chiang Mai,4.2,inactive,17
+REST036,Lee-Morgan,Vegan,Phuket,3.6,inactive,17
+REST033,Brooks Group,Fast Food,Bangkok,4.2,active,20
+REST039,Mcdowell-Lee,Thai,Udon Thani,4.5,inactive,8
+REST021,"Murphy, Lawson and Garcia",Japanese,Pattaya,4.2,inactive,30
+REST084,"Patterson, Hall and Neal",Western,Bangkok,3.6,active,22
+REST023,Drake and Sons,Western,Chiang Mai,5.0,inactive,15
+REST067,"Ruiz, King and Lynn",Vegan,Bangkok,4.3,active,11
+REST066,Alvarez Group,Bakery,Hat Yai,4.2,inactive,21
+REST072,Roach-Collins,Thai,Pattaya,4.0,inactive,21
+REST098,"Brooks, Edwards and Davis",Coffee,Udon Thani,4.5,inactive,22
+REST004,Snyder Ltd,Bakery,Rayong,3.9,inactive,22
+REST024,Banks-Smith,Western,Hat Yai,4.2,active,15
+REST073,Mathews-Rodriguez,Vegan,Pattaya,3.5,inactive,24
+REST061,"Johnson, Warren and Chen",Coffee,Bangkok,4.1,inactive,25
+REST002,Lane PLC,Japanese,Phuket,4.6,active,18
+REST042,"Park, Hernandez and Day",Fast Food,Udon Thani,4.6,active,23
+REST014,King PLC,Western,Khon Kaen,3.8,active,21
+REST013,"Figueroa, Price and Torres",Bakery,Khon Kaen,4.5,active,13
+REST049,"Gonzalez, Cline and Ramirez",Coffee,Bangkok,4.0,active,21
+REST077,"Hardy, Campos and Norman",Thai,Chiang Mai,3.8,inactive,25
+REST052,"Baker, Hall and Jefferson",Fast Food,Phuket,4.6,active,9
+REST029,Edwards-Smith,Vegan,Phuket,4.2,active,17
+REST051,Medina and Sons,Fast Food,Chiang Mai,3.4,active,19
+REST053,Gates-Powell,Thai,Phuket,3.9,active,13
+REST035,Brown-Taylor,Thai,Pattaya,3.8,active,15
+REST017,Jones-Moore,Thai,Hat Yai,4.3,active,20
+REST005,Williams and Sons,Thai,Bangkok,4.4,inactive,25
+REST040,Stewart-Johnson,Coffee,Udon Thani,3.8,active,20
+REST085,Simpson-Jackson,Coffee,Bangkok,3.9,inactive,16
+REST006,"Mccann, Myers and Clark",Bakery,Bangkok,3.7,inactive,31
+REST091,Frazier-Rodriguez,Japanese,Phuket,3.8,active,13
+REST003,Browning-Bentley,Thai,Hat Yai,3.4,active,10
+REST022,"Perez, Hill and Robinson",Japanese,Pattaya,4.1,active,31
+REST043,Ramirez Group,Japanese,Pattaya,4.2,inactive,19
+REST081,Davis PLC,Japanese,Udon Thani,4.0,inactive,25
+REST038,"Deleon, Myers and Strong",Western,Pattaya,4.4,active,22
+REST059,Smith-Aguirre,Thai,Khon Kaen,4.5,inactive,17
+REST093,Pope-Nelson,Vegan,Udon Thani,4.5,inactive,13
+REST055,Cunningham PLC,Western,Rayong,4.5,active,14
+REST094,Rush-Brown,Japanese,Chiang Mai,3.4,inactive,21
+REST011,"King, Rowe and Mcdonald",Fast Food,Rayong,4.5,active,19
+REST008,Crawford-Wiggins,Western,Khon Kaen,3.4,active,28
+REST070,Sherman Ltd,Western,Bangkok,3.9,active,26
+REST069,Huang-Meyer,Vegan,Khon Kaen,4.1,active,13
+REST086,Brown and Sons,Fast Food,Hat Yai,4.3,active,26
+REST045,"Sanchez, Reyes and Simon",Japanese,Chiang Mai,4.1,active,5
+REST065,Middleton Inc,Coffee,Pattaya,3.2,inactive,5
+REST048,Armstrong Group,Coffee,Khon Kaen,4.1,active,19
+REST028,Baldwin-Gonzales,Fast Food,Chiang Mai,4.3,inactive,30
+REST076,"Howard, Butler and Anderson",Bakery,Bangkok,4.3,active,25
+REST082,Young-Gomez,Thai,Bangkok,4.0,active,11
+REST031,Woodard-Robinson,Bakery,Hat Yai,4.3,inactive,16
+REST037,Brown LLC,Coffee,Hat Yai,3.8,inactive,17
+REST100,Paul-Garrett,Fast Food,Khon Kaen,4.0,inactive,8
+REST097,Holt-Mendoza,Western,Khon Kaen,4.2,active,11
+REST092,Allen-Torres,Japanese,Phuket,4.4,active,11
+REST050,"Colon, Jimenez and Knox",Coffee,Bangkok,4.3,inactive,13
+REST019,Alvarez-Everett,Bakery,Udon Thani,3.9,active,42
+REST0101,"King, Tate and Jones",Thai,Phuket,4.5,active,27
+REST0102,"Benson, Hughes and Horn",Vegan,Chiang Mai,4.8,inactive,20
+REST0103,Douglas-Anderson,Vegan,Chiang Mai,3.9,active,27
+REST0104,Cox-Collins,Japanese,Pattaya,3.8,active,24
+REST0105,"Lewis, King and Clark",Thai,Pattaya,4.3,active,28
